@@ -1,5 +1,5 @@
 # CoronaSafetyApp
-CoronaSafetyApp is an app meant to improve safety during COVID by making sure that its users are aware of the risk they will face in various social interactions. This app contains three main pages/features.
+CoronaSafetyApp is an app designed to improve safety during COVID by making sure that its users are aware of the risk they will face in various social interactions. This app contains three main pages/features.
 
 ## Feature #1
 The first page displays real-time data COVID data, obtained through web-scraping, for every state in the US. It includes data such as all time people infected, people infected in the past week, people infected per square mile, and other pieces of information. This is a great way for users to get caught up on the current COVID situation.
